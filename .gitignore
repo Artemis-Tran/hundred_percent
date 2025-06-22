@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+glove.6B.100d.txt
 
 # debug
 npm-debug.log*
